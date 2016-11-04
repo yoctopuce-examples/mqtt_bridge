@@ -4,6 +4,6 @@ Two very simple Java applications that illustrate how Yoctopuces modules can be 
 
 The subdirectory `mqtt_bridge_cmdline` is a simple command line application, and the `mqtt_bridge_websocket` is a web application that use WebSocket callback instead of direct connection.
 
-For more explanations on how these examples works read this article on our web site : https://www.yoctopuce.com/EN/article
+For more explanations on how these examples works read this article on our web site : https://www.yoctopuce.com/EN/article/controlling-yoctopuce-modules-from-mqtt
 
 Feel free to modify it to fit your needs.
